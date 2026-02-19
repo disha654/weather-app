@@ -1,4 +1,4 @@
-# Weather App with Glassmorphic Design
+# Weather App with Glassmorphic Design 
 
 A beautiful React weather application that displays current weather, historical weather, and marine weather data using the Weatherstack API.
 
@@ -79,3 +79,7 @@ npm run preview
 ## Note
 
 Some features like Historical Weather and Marine Weather require a paid Weatherstack plan. The free plan only supports Current Weather lookups.
+
+
+##Deployed url
+https://disha654-weather-app-qwfw.vercel.app/
