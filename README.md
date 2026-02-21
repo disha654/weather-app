@@ -81,5 +81,5 @@ npm run preview
 Some features like Historical Weather and Marine Weather require a paid Weatherstack plan. The free plan only supports Current Weather lookups.
 
 
-##Deployed url
+## Deployed url
 https://disha654-weather-app-qwfw.vercel.app/
