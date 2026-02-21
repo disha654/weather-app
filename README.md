@@ -1,4 +1,4 @@
-# Weather App with Glassmorphic Design 
+# Weather App with Glassmorphic Design  https://weather-app-nine-omega-42.vercel.app
 
 A beautiful React weather application that displays current weather, historical weather, and marine weather data using the Weatherstack API.
 
@@ -81,5 +81,4 @@ npm run preview
 Some features like Historical Weather and Marine Weather require a paid Weatherstack plan. The free plan only supports Current Weather lookups.
 
 
-## Deployed url
-https://weather-app-nine-omega-42.vercel.app
+
