@@ -82,4 +82,4 @@ Some features like Historical Weather and Marine Weather require a paid Weathers
 
 
 ## Deployed url
-https://disha654-weather-app-qwfw.vercel.app/
+(https://vercel.com/disha-vs-projects/weather-app/ANivGFhZXNFXMA5Fa7tvk1tjXa2R)
